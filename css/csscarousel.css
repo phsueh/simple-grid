@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body{
+	margin:0;
+	}
+#carousel {
+	width:8000px;
+}
+
+#carousel ul {
+	list-style:none;
+	width:8000px;
+	margin:0;
+	padding:0;
+	positioning:relative;
+}
+#carousel li {
+	display:inline;
+	float:left;
+	}
